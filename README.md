@@ -1,5 +1,6 @@
 # README_Practica
 > Andrés Sánchez Martínez
+> Jesús González Gálvez
 
 # Foobar
 
